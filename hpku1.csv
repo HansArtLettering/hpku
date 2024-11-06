@@ -1,0 +1,26 @@
+Brand;Model;RAM;ROM;Chipset;Kamera Depan;Kamera Belakang;Tahun;Kota
+Samsung;Galaxy S22;8;128;Exynos 2200;10;50+10+12;2022;Jakarta
+Samsung;Galaxy A52;6;128;Qualcomm Snapdragon 720G;32;64+12+5+5;2021;Surabaya
+Samsung;Galaxy M51;8;128;Qualcomm Snapdragon 730G;32;64+12+5+5;2020;Bandung
+Samsung;Galaxy Note 20;8;256;Exynos 990;10;12+64+12;2020;Medan
+Samsung;Galaxy Z Flip3;8;256;Qualcomm Snapdragon 888;10;12+12;2021;Jakarta
+Xiaomi;Redmi Note 10 Pro;8;128;Qualcomm Snapdragon 732G;16;108+8+5+2;2021;Surabaya
+Xiaomi;Mi 11;8;256;Qualcomm Snapdragon 888;20;108+13+5;2021;Jakarta
+Xiaomi;Redmi 9T;6;128;Qualcomm Snapdragon 662;8;48+8+2+2;2021;Bandung
+Xiaomi;Poco X3 Pro;8;256;Qualcomm Snapdragon 860;20;48+8+2+2;2021;Medan
+Xiaomi;Mi 10T Pro;8;256;Qualcomm Snapdragon 865;20;108+13+5;2020;Jakarta
+Oppo;Reno 5;8;128;Qualcomm Snapdragon 765G;44;64+8+2+2;2020;Surabaya
+Oppo;A74;6;128;Qualcomm Snapdragon 662;16;48+2+2;2021;Bandung
+Oppo;Find X3 Pro;12;256;Qualcomm Snapdragon 888;32;50+50+13+3;2021;Jakarta
+Oppo;Reno 6;8;128;MediaTek Dimensity 900;32;64+8+2;2021;Medan
+Oppo;A92;8;128;Qualcomm Snapdragon 665;16;48+8+2+2;2020;Surabaya
+Realme;8 Pro;8;128;Qualcomm Snapdragon 720G;16;108+8+2+2;2021;Jakarta
+Realme;7;8;128;MediaTek Helio G95;16;64+8+2+2;2020;Bandung
+Realme;C25;4;64;MediaTek Helio G70;8;13+2+2;2021;Surabaya
+Realme;X50 Pro;12;256;Qualcomm Snapdragon 865;32;64+12+8+2;2020;Medan
+Realme;Narzo 20;4;64;MediaTek Helio G85;8;48+8+2;2020;Jakarta
+Vivo;V21;8;128;MediaTek Dimensity 800U;44;64+8+2;2021;Jakarta
+Vivo;Y20;4;64;Qualcomm Snapdragon 460;8;13+2+2;2020;Surabaya
+Vivo;X60 Pro;12;256;Exynos 1080;32;48+13+8;2021;Medan
+Vivo;V19;8;128;Qualcomm Snapdragon 675;32;48+8+2+2;2020;Bandung
+Vivo;Y50;8;128;Qualcomm Snapdragon 665;16;13+8+2+2;2020;Jakarta
