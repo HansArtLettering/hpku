@@ -1,0 +1,46 @@
+nama;brand;jenis;RAM;ROM;Chipset;Ukuran_hp;Kapasitas_Baterai;harga;tahun
+Galaxy S23 Ultra;Samsung;Smartphone;12GB;256GB;Exynos 2200;"6.8""";5000mAh;$1199;2023
+iPhone 14 Pro;Apple;Smartphone;6GB;256GB;A16 Bionic;"6.1""";3279mAh;$999;2023
+Redmi Note 12 Pro;Xiaomi;Smartphone;8GB;128GB;Dimensity 1080;"6.67""";5000mAh;$319;2023
+OPPO Reno8 Pro;OPPO;Smartphone;12GB;256GB;Dimensity 8100-MAX;"6.7""";4500mAh;$499;2022
+Pixel 7;Google;Smartphone;8GB;128GB;Google Tensor G2;"6.3""";4355mAh;$599;2022
+Xperia 5 IV;Sony;Smartphone;8GB;128GB;Qualcomm Snapdragon 8 Gen 1;"6.1""";5000mAh;$899;2022
+Realme GT Neo 3;Realme;Smartphone;8GB;256GB;Dimensity 8100;"6.7""";5000mAh;$429;2022
+Infinix Zero Ultra;Infinix;Smartphone;8GB;256GB;MediaTek Dimensity 920;"6.8""";4500mAh;$520;2023
+Galaxy Z Fold4;Samsung;Smartphone;12GB;512GB;Qualcomm Snapdragon 8+ Gen 1;"7.6""";4400mAh;$1799;2022
+iPhone 13;Apple;Smartphone;4GB;128GB;A15 Bionic;"6.1""";3240mAh;$799;2021
+Redmi Note 11 Pro;Xiaomi;Smartphone;6GB;128GB;Qualcomm Snapdragon 732G;"6.67""";5020mAh;$299;2021
+OPPO A95;OPPO;Smartphone;8GB;128GB;Qualcomm Snapdragon 662;"6.43""";5000mAh;$250;2021
+Galaxy A52s;Samsung;Smartphone;6GB;128GB;Qualcomm Snapdragon 778G;"6.5""";4500mAh;$499;2021
+Pixel 6 Pro;Google;Smartphone;12GB;128GB;Google Tensor;"6.71""";5003mAh;$899;2021
+Poco F4;Poco;Smartphone;8GB;256GB;Qualcomm Snapdragon 870;"6.67""";4500mAh;$399;2022
+Huawei Mate 40 Pro;Huawei;Smartphone;8GB;256GB;HiSilicon Kirin 9000;"6.76""";4400mAh;$1049;2020
+Xiaomi Mi 11;Xiaomi;Smartphone;8GB;128GB;Qualcomm Snapdragon 888;"6.81""";4600mAh;$749;2021
+Vivo V23 Pro;Vivo;Smartphone;8GB;256GB;Dimensity 1200;"6.56""";4300mAh;$400;2022
+OnePlus 9 Pro;OnePlus;Smartphone;12GB;256GB;Qualcomm Snapdragon 888;"6.7""";4500mAh;$1069;2021
+Nokia X20;Nokia;Smartphone;8GB;128GB;Qualcomm Snapdragon 480;"6.67""";4470mAh;$500;2021
+ASUS ROG Phone 5;ASUS;Smartphone;16GB;512GB;Qualcomm Snapdragon 888;"6.78""";6000mAh;$999;2021
+Infinix Note 12 VIP;Infinix;Smartphone;8GB;256GB;MediaTek Helio G96;"6.7""";4500mAh;$300;2022
+Galaxy S21 Ultra;Samsung;Smartphone;12GB;256GB;Exynos 2100;"6.8""";5000mAh;$1199;2021
+iPhone 12 Pro;Apple;Smartphone;6GB;256GB;A14 Bionic;"6.1""";2815mAh;$999;2020
+Redmi 10X;Xiaomi;Smartphone;6GB;128GB;Dimensity 820;"6.57""";4520mAh;$230;2020
+OPPO Find X3 Pro;OPPO;Smartphone;12GB;256GB;Qualcomm Snapdragon 888;"6.7""";4500mAh;$1059;2021
+Xperia 1 III;Sony;Smartphone;12GB;256GB;Qualcomm Snapdragon 888;"6.5""";4500mAh;$1299;2021
+Realme GT Master Edition;Realme;Smartphone;8GB;256GB;Qualcomm Snapdragon 778G;"6.43""";4300mAh;$400;2021
+OnePlus Nord CE;OnePlus;Smartphone;8GB;128GB;Qualcomm Snapdragon 750G;"6.43""";4500mAh;$299;2021
+Honor 50;Honor;Smartphone;8GB;256GB;Qualcomm Snapdragon 778G;"6.57""";4300mAh;$500;2021
+Motorola Edge 20 Pro;Motorola;Smartphone;12GB;256GB;Qualcomm Snapdragon 870;"6.7""";4500mAh;$499;2021
+Galaxy A71;Samsung;Smartphone;8GB;128GB;Qualcomm Snapdragon 730;"6.7""";4500mAh;$399;2020
+Huawei Nova 9;Huawei;Smartphone;8GB;128GB;Qualcomm Snapdragon 778G;"6.57""";4300mAh;$489;2021
+Xiaomi Mi 10T;Xiaomi;Smartphone;8GB;128GB;Qualcomm Snapdragon 865;"6.67""";5000mAh;$499;2020
+Vivo Y50;Vivo;Smartphone;8GB;128GB;Qualcomm Snapdragon 665;"6.53""";5000mAh;$230;2020
+Infinix S5 Pro;Infinix;Smartphone;6GB;128GB;MediaTek Helio P35;"6.53""";4000mAh;$220;2020
+Nokia 8.3 5G;Nokia;Smartphone;8GB;128GB;Qualcomm Snapdragon 765G;"6.81""";4500mAh;$599;2020
+Poco X3 NFC;Poco;Smartphone;6GB;128GB;Qualcomm Snapdragon 732G;"6.67""";5160mAh;$270;2020
+Realme 7 Pro;Realme;Smartphone;8GB;128GB;Qualcomm Snapdragon 720G;"6.4""";4500mAh;$300;2020
+OPPO Reno4;OPPO;Smartphone;8GB;128GB;Qualcomm Snapdragon 720G;"6.43""";4015mAh;$430;2020
+Google Pixel 4a;Google;Smartphone;6GB;128GB;Qualcomm Snapdragon 730G;"5.81""";3140mAh;$349;2020
+ASUS ZenFone 7 Pro;ASUS;Smartphone;8GB;256GB;Qualcomm Snapdragon 865+;"6.67""";5000mAh;$750;2020
+OnePlus 8T;OnePlus;Smartphone;12GB;256GB;Qualcomm Snapdragon 865;"6.55""";4500mAh;$749;2020
+Galaxy Note 20 Ultra;Samsung;Smartphone;12GB;256GB;Exynos 990;"6.9""";4500mAh;$1299;2020
+iPhone SE 2020;Apple;Smartphone;3GB;128GB;A13 Bionic;"4.7""";1821mAh;$399;2020
