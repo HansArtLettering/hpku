@@ -1,4 +1,4 @@
-nama;brand;jenis;RAM;ROM;Chipset;Ukuran_hp;Kapasitas_Baterai;harga;tahun
+nama;brand;model;RAM;ROM;Chipset;Ukuran_hp;Kapasitas_Baterai;harga;tahun
 Galaxy S23 Ultra;Samsung;Smartphone;12GB;256GB;Exynos 2200;"6.8""";5000mAh;$1199;2023
 iPhone 14 Pro;Apple;Smartphone;6GB;256GB;A16 Bionic;"6.1""";3279mAh;$999;2023
 Redmi Note 12 Pro;Xiaomi;Smartphone;8GB;128GB;Dimensity 1080;"6.67""";5000mAh;$319;2023
